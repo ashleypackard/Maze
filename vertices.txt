@@ -1,0 +1,10 @@
+A:B
+B:AC
+C:BD
+D:CEH
+E:DF
+F:G
+G:F
+H:DI
+I:J
+J:I
